@@ -33,6 +33,7 @@ You can install these packages by running the following command:
 ```bash
 pip install -r requirements.txt
 ```
+### add length and widhth of scrren in function according to text postion on screen 
 
 ## Features
 
