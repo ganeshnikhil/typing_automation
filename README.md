@@ -33,7 +33,6 @@ You can install these packages by running the following command:
 ```bash
 pip install -r requirements.txt
 ```
-### add length and widhth of scrren in function according to text postion on screen 
 
 ## Features
 
@@ -65,6 +64,7 @@ Please note that this script may require root privileges to simulate keyboard in
 
 ## Function Details
 
+### pass height and widhth of screen in function `take_screenshot(width, height)` according to texts postion on screen 
 The script includes the following functions:
 
 - `write_using_keyboard(text)`: Types the provided text using keyboard input.
