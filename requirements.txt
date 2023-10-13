@@ -1,0 +1,4 @@
+mss==6.0.0
+keyboard==0.13.5
+pytesseract==0.3.8
+Pillow==8.2.0
