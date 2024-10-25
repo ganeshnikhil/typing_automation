@@ -30,7 +30,7 @@ Before using this script, ensure that you have the following Python packages ins
 
 You can install these packages by running the following command:
 
-```bash
+
 pip install -r requirements.txt
 
 ## Features
