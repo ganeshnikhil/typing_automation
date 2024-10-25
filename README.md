@@ -1,6 +1,6 @@
 ## typing_automation
 
-```markdown
+
 # Automated Text Extraction and Keyboard Typing
 
 ## Table of Contents
@@ -32,7 +32,6 @@ You can install these packages by running the following command:
 
 ```bash
 pip install -r requirements.txt
-```
 
 ## Features
 
